@@ -1,6 +1,4 @@
-Here’s a polished **README description** you can use for your Simon Game project on GitHub:
 
----
 
 # 🎮 Simon Game
 
@@ -40,8 +38,7 @@ The **Simon Game** is a classic memory-based game built using **HTML, CSS, and J
 - Include multiplayer mode  
 
 ## 📸 Demo
-*(Add screenshots or GIFs of gameplay here)*
+*<img width="955" height="1039" alt="image" src="https://github.com/user-attachments/assets/07579fda-1638-4e27-863b-83119a6abf83" />
+*
 
 ---
-
-Would you like me to also create a **short installation & usage guide** (like how to clone and run it locally), so your README looks complete and beginner-friendly?
